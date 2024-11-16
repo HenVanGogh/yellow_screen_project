@@ -27,3 +27,5 @@ Thumbs.db
 
 # Library integrity files
 integrity.dat
+
+include/config.h
